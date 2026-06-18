@@ -1,0 +1,7 @@
+{
+    "cpf": "cpf",
+    "senha": "senha",
+
+    "telegram_token": "token",
+    "telegram_chat_id": "chat_id"
+}
